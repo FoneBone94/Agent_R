@@ -36,11 +36,11 @@ INSTALATION INSTRUCTIONS
  
  PATCH NOTES
  -----------
- V 0.8.3
+ V 0.8.4
  
   -First public release
   
-  -Health system curenlty dissable due to major bug
+  -Health system curenlty dissabled due to major bug
   
   -fixed automatic graphical setting upon launch
   
