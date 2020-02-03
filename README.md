@@ -1,4 +1,4 @@
-# Agent_R
+# Agent-R
 
 An action rythm game all about doging those pesky red things to a sweet soundtrack!
 
