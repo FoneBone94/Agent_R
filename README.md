@@ -30,7 +30,7 @@ INSTALATION INSTRUCTIONS
  Note: If the shortcut does not work you can do one of two things;
  
        1. Delete the existing shortcut and create a new one from "Agent-R.exe"
-       2. Right click on the shortcut to open it, click browse and navigate to "Agent-R.exe"
+       2. Left click on the shortcut to open it, click browse and navigate to "Agent-R.exe"
        
  Note: If you are installing on an ITP PC then you will need Mrs. Paulson's credentails to instal the UE4 prerequisites.
  
