@@ -12,7 +12,7 @@ I will coment back on an issue as to a fix or whatnot so feel free to check ther
 
 DOWNLOAD
 --------
-check back frequentley for new updates, a new commit will be made to the "Agent-R.exe" when there is an update!
+check back frequentley for new updates, a new Release will be made to signify when there is an update!
   The dowload will always be the dropbox link provided below.
   
 Downoload Link:
