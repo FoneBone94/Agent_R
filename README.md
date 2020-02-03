@@ -3,6 +3,8 @@
 An action rythm game all about doging thoss pesky red things to a sweet soundtrack!
 
 Please report any issues in the issues tab on the github page.
+Please do not report issues that are already listed! It won't get done any faster.
+
 check back frequentley for new updates, a new commit will be made to the "Agent-R.exe" when there is an update!
   The dowload will always be the dropbox link provided below.
 
