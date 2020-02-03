@@ -25,7 +25,7 @@ INSTALATION INSTRUCTIONS
 3. Move the "Agent-R.exe -shortcut" to your desktop
 4. Play!
 
- Note: if there is an update you should extract to the same location as the previous version.
+ Note: When there is an update you should extract to the same location as the previous version and REPLACE the files in the destiation.
  
  Note: If the shortcut does not work you can do one of two things;
  
