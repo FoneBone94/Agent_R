@@ -23,3 +23,21 @@ INSTALATION INSTRUCTIONS
 4. Play!
 
  Note: if there is an update you should extract to the same location as the previous version.
+ Note: If the shortcut does not work you can do one of two things;
+       1. Delete the existing shortcut and create a new one from "Agent-R.exe"
+       2. Right click on the shortcut to open it, click browse and navigate to "Agent-R.exe"
+ Note: If you are installing on ITP's PC's then you will need Mrs. Paulson's credentails to instal the UE4 prerequisites.
+ 
+ PATCH NOTES
+ -----------
+ V 0.8.2
+ 
+  -First public release
+  -Health system curenlty dissable ddur to major bug
+  
+  known issues
+  ------------
+  -No menu screen = INSTANT GAMEPLAY!
+  -No functioning health
+  
+  
