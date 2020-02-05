@@ -15,9 +15,9 @@ DOWNLOAD
 check back frequentley for new updates, a new Release will be made to signify when there is an update!
   The dowload will always be updated below.
   
-Downoload Link:
-  https://www.dropbox.com/s/t8e9t8kpldkx800/Agent-R.zip?dl=0
-
+Download Link:
+  https://www.dropbox.com/s/ks7jbgbqpqqynch/Agent_R.zip?dl=0
+  
 INSTALATION INSTRUCTIONS
 ------------------------
 1. Download the ZIP file from the link above
