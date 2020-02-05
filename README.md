@@ -36,13 +36,15 @@ INSTALATION INSTRUCTIONS
  
  PATCH NOTES
  -----------
- V 0.8.4
+ V 0.8.5
  
   -First public release
   
   -Health system curenlty dissabled due to major bug
   
-  -fixed automatic graphical settings upon launch
+  -Added automatic graphical settings upon launch
+  
+  -Adjusted game brightness for other monitors
   
   known issues
   ------------
