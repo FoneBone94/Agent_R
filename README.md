@@ -13,7 +13,7 @@ I will coment back on an issue as to a fix or whatnot so feel free to check ther
 DOWNLOAD
 --------
 check back frequentley for new updates, a new Release will be made to signify when there is an update!
-  The dowload will always be the dropbox link provided below.
+  The dowload will always be updated below.
   
 Downoload Link:
   https://www.dropbox.com/s/t8e9t8kpldkx800/Agent-R.zip?dl=0
