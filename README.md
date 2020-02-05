@@ -22,6 +22,7 @@ INSTALATION INSTRUCTIONS
 ------------------------
 1. Download the ZIP file from the link above
 2. Extract the file to your choice of folder
+3. Right click on the "Agent-R.exe" and click create shortcut
 3. Move the "Agent-R.exe -shortcut" to your desktop
 4. Play!
 
