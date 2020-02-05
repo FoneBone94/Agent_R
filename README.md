@@ -42,7 +42,7 @@ INSTALATION INSTRUCTIONS
   
   -Health system curenlty dissabled due to major bug
   
-  -fixed automatic graphical setting upon launch
+  -fixed automatic graphical settings upon launch
   
   known issues
   ------------
