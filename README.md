@@ -37,13 +37,13 @@ INSTALATION INSTRUCTIONS
  
  PATCH NOTES
  -----------
- V 0.8.5
+ V 0.8.7
  
   -First public release
   
-  -Health system curenlty dissabled due to major bug
+  -Health system removed and replaced with a score system
   
-  -Added automatic graphical settings upon launch
+  -Improved automatic graphical settings upon launch
   
   -Adjusted game brightness for other monitors
   
@@ -51,6 +51,6 @@ INSTALATION INSTRUCTIONS
   ------------
   -No menu screen = INSTANT GAMEPLAY!
   
-  -No functioning health
+  -Score system not storing total score
   
   
