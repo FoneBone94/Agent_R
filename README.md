@@ -10,7 +10,7 @@ Do not post joke issues! I'm actuly going to read all of the issues so please tr
 
 I will coment back on an issue as to a fix or whatnot so feel free to check there if you are having issues!
 
-Issues that are considered to be fixed will be closed as to not clutter the main area so looking the colsed section first befor posting!
+Issues that are considered to be fixed will be closed as to not clutter the main area so look in the closed section first before posting!
 
 DOWNLOAD
 --------
