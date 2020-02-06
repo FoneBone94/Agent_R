@@ -49,6 +49,7 @@ INSTALATION INSTRUCTIONS
   
   known issues
   ------------
+  
   -No menu screen = INSTANT GAMEPLAY!
   
   -Score system not storing total score
