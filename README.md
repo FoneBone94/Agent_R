@@ -56,4 +56,4 @@ INSTALATION INSTRUCTIONS
   
   -Score system not storing total score
   
-  
+  -Score not being displayed in any way
