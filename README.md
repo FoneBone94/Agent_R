@@ -45,6 +45,8 @@ INSTALATION INSTRUCTIONS
   
   -Load time should be 12% quicker! Yay!
   
+  -Slightly reduced download size by 0.01 Gb!
+  
   -Fixed a few small visual errors
   
   -You can no longer stand on top of the vaccum tubes
