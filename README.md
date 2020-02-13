@@ -39,11 +39,15 @@ INSTALATION INSTRUCTIONS
  
  PATCH NOTES
  -----------
- V 0.8.7
+ V 0.8.9
    
   -Health system makes a return!
   
   -Load time should be 12% quicker! Yay!
+  
+  -Fixed a few small visual errors
+  
+  -You can no longer stand on top of the vaccum tubes
   
   known issues
   ------------
