@@ -40,20 +40,14 @@ INSTALATION INSTRUCTIONS
  PATCH NOTES
  -----------
  V 0.8.7
- 
-  -First public release
+   
+  -Health system makes a return!
   
-  -Health system removed and replaced with a score system
-  
-  -Improved automatic graphical settings upon launch
-  
-  -Adjusted game brightness for other monitors
+  -Load time should be 12% quicker! Yay!
   
   known issues
   ------------
   
   -No menu screen = INSTANT GAMEPLAY!
-  
-  -Score system not storing total score
-  
-  -Score not being displayed in any way
+   
+  -Current health not shown
