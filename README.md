@@ -45,9 +45,13 @@ INSTALATION INSTRUCTIONS
   
   -Camera readjusted
   
+  -Added a health pack that will fall to the level ervery once in a while, restores 20% of your health when at 605 and below
+  
   -fixed a bug with photon damage occuring twice per photon.
   
   -Fixed a few small visual errors
+  
+  -floor should now no longer appear black
   
   -You can no longer stand on top anything not ment to be stood on
   
