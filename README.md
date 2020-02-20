@@ -39,21 +39,24 @@ INSTALATION INSTRUCTIONS
  
  PATCH NOTES
  -----------
- V 0.8.9
+ V 0.9.5
    
-  -Health system makes a return!
+  -Health Is now visible!
   
-  -Load time should be 12% quicker! Yay!
+  -Camera readjusted
   
-  -Slightly reduced download size by 0.01 Gb!
+  -fixed a bug with photon damage occuring twice per photon.
   
   -Fixed a few small visual errors
   
-  -You can no longer stand on top of the vaccum tubes
+  -You can no longer stand on top anything not ment to be stood on
+  
+  -Health system improved overall
+  
+  -Key binding added to exit the game! (esc)
   
   known issues
   ------------
   
   -No menu screen = INSTANT GAMEPLAY!
    
-  -Current health not shown
