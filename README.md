@@ -47,7 +47,7 @@ INSTALATION INSTRUCTIONS
   
   -Camera readjusted
   
-  -Added a health pack that will fall to the level ervery once in a while, restores 20% of your health when at 60% or below
+  -Added a health pack that will fall to the level every once in a while, restores 20% of your health when at 60% or below
   
   -fixed a bug with photon damage occuring twice per photon.
   
