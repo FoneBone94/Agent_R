@@ -41,6 +41,8 @@ INSTALATION INSTRUCTIONS
  -----------
  V 0.9.5
    
+   -download size buffed for extra content!
+   
   -Health Is now visible!
   
   -Camera readjusted
