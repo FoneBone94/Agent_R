@@ -55,7 +55,7 @@ INSTALATION INSTRUCTIONS
   
   -floor should now no longer appear black
   
-  -You can no longer stand on top anything not ment to be stood on
+  -You can no longer stand on top anything not meant to be stood on
   
   -Health system improved overall
   
