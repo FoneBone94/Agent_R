@@ -39,30 +39,18 @@ INSTALATION INSTRUCTIONS
  
  PATCH NOTES
  -----------
- V 0.9.5
-   
-   -download size buffed for extra content!
-   
-  -Health Is now visible!
-  
-  -Camera readjusted
-  
-  -Added a health pack that will fall to the level every once in a while, restores 20% of your health when at 60% or below
-  
-  -fixed a bug with photon damage occuring twice per photon.
-  
+ V 0.9.8
+      
   -Fixed a few small visual errors
   
-  -floor should now no longer appear black
+  -Health system adjusted for balancing
   
-  -You can no longer stand on top anything not meant to be stood on
+  -Fixed lazers occasionally fireing ahead/behind of the beat
   
-  -Health system improved overall
-  
-  -Key binding added to exit the game! (esc)
+  -Title Screen added finaly!
   
   known issues
   ------------
   
-  -No menu screen = INSTANT GAMEPLAY!
+  NONE! YAY!
    
