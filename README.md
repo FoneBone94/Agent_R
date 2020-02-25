@@ -43,6 +43,8 @@ INSTALATION INSTRUCTIONS
       
   -Fixed a few small visual errors
   
+  -Updated Photon & Lazer Texture
+  
   -Health system adjusted for balancing
   
   -Fixed lazers occasionally fireing ahead/behind of the beat
