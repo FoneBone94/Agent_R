@@ -39,17 +39,11 @@ INSTALATION INSTRUCTIONS
  
  PATCH NOTES
  -----------
- V 0.9.8
+ V 0.9.9.2
       
-  -Fixed a few small visual errors
-  
-  -Updated Photon & Lazer Texture
-  
-  -Health system adjusted for balancing
-  
-  -Fixed lazers occasionally fireing ahead/behind of the beat
-  
-  -Title Screen added finaly!
+- added side rails to prevent the "Luigi Exploit"
+- slightly adjusted player start position
+- balanced damage of obsticales
   
   known issues
   ------------
