@@ -39,11 +39,12 @@ INSTALATION INSTRUCTIONS
  
  PATCH NOTES
  -----------
- V 0.9.9.2
+ V 0.9.9.8
       
-- added side rails to prevent the "Luigi Exploit"
-- slightly adjusted player start position
-- balanced damage of obsticales
+- fixed a glitch with the sidrails with the character getting stuck
+- added a pick-up sound for the health pack
+- fixed players ocasionaly being able to live at 0% health
+- reduced download size by remove unused content
   
   known issues
   ------------
