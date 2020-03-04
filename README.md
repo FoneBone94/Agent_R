@@ -49,5 +49,5 @@ INSTALATION INSTRUCTIONS
   known issues
   ------------
   
-  NONE! YAY!
+  None! YAY!
    
