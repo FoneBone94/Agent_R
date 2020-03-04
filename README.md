@@ -39,11 +39,8 @@ INSTALATION INSTRUCTIONS
  
  PATCH NOTES
  -----------
- V 0.9.9.8
-      
+ V1.0.1     
 - fixed a glitch with the sidrails with the character getting stuck
-- added a pick-up sound for the health pack
-- fixed players ocasionaly being able to live at 0% health
 - reduced download size by remove unused content
   
   known issues
