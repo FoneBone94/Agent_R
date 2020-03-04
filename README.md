@@ -18,7 +18,7 @@ check back frequentley for new updates, a new Release will be made to signify wh
   The dowload will always be updated below.
   
 Download Link:
- https://www.dropbox.com/s/qq9dgu4ntcm7jme/Agent_R.zip?dl=0
+https://www.dropbox.com/s/qq9dgu4ntcm7jme/Agent_R.zip?dl=0
   
 INSTALATION INSTRUCTIONS
 ------------------------
